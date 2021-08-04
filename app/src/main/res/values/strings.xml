@@ -2,4 +2,7 @@
     <string name="app_name">Sample Application</string>
     <string name="click_on_me">Click Me</string>
     <string name="clicked_on_me">You clicked on me.</string>
+    <string name="show_text">Show Text</string>
+    <string name="hint_enter_something">Enter Something.......</string>
+
 </resources>
